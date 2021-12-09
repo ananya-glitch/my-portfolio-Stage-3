@@ -1,0 +1,29 @@
+body{
+    background-color: #b2d3c2;
+}
+.marquee{
+    height: 1cm;
+    font-size: 200%;
+    font-weight: bold;
+    color: #689268;
+    border-style: double;
+    border-color: #37fd12;
+    border-radius: 3cm;
+}
+.header{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border-style:double;
+    margin:70px;
+    background-color: #98BF64;
+    border-radius: 3cm;
+    border-color: #466d1d;
+    border-width: 0.5cm;
+    padding:1cm;
+}
+.myImage{
+    border-style: solid;
+    border-radius: 2cm;
+    border-color: #607D3B;
+}
